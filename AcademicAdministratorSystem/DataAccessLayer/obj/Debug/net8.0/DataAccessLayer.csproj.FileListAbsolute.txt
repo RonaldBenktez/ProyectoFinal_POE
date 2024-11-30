@@ -1,0 +1,31 @@
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

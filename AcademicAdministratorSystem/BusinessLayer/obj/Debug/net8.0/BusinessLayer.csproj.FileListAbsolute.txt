@@ -1,0 +1,35 @@
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

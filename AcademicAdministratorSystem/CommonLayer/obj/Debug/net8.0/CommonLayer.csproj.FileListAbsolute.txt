@@ -1,0 +1,23 @@
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.sourcelink.json
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll

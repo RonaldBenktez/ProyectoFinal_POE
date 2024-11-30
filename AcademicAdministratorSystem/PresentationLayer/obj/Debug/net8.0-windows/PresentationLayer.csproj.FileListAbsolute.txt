@@ -1,0 +1,201 @@
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\FluentValidation.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.LoginForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Properties.Resources.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.sourcelink.json
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\Presenta.9C561136.Up2Date
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.HomeForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.MembersForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.GradesAndSectionsForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.SubjectsForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.TeacherClassForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.AddNotesForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.studentsAndSubjectsForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.ViewNotesStudentsForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\AcademicSystem\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.ViewStudentsClassForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\FluentValidation.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.AddNotesForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.GradesAndSectionsForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.HomeForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.LoginForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.MembersForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.studentsAndSubjectsForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.SubjectsForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.TeacherClassForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.ViewNotesStudentsForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.ViewStudentsClassForm.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Properties.Resources.resources
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\Presenta.9C561136.Up2Date
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\Moises Carranza\Downloads\AcademicSystem\AcademicAdministratorSystem\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll
