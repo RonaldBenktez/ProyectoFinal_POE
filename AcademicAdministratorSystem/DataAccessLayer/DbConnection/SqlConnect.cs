@@ -13,7 +13,7 @@ namespace DataAccessLayer.DbConnection
         private readonly string _connectionString;
         public SqlConnect()
         {
-            _connectionString = "Data Source=DESKTOP-F4AGAE7\\U20210127;Initial Catalog=AcademicAdministrator;Integrated Security=True;Encrypt=False";
+            _connectionString = "Data Source=DESKTOP-DHSOO9J;Initial Catalog=AcademicAdministrator;Integrated Security=True;Encrypt=False";
         }
         public SqlConnection GetConnection()
         {
